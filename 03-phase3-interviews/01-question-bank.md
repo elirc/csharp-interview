@@ -1,6 +1,6 @@
 # Technical Question Bank — Screener & Q&A Rounds
 
-The 60 questions that cover ~90% of practical mid-level .NET screeners. ⭐ = highest frequency, drill first. Answers are the *shape* of a mid-level response — one confident paragraph with a why and a tradeoff — not essays to memorize. Personalize each with your project experience: "in my booking app, I…" beats any textbook answer.
+The 56 core questions for practical mid-level .NET screeners. ⭐ (18 of them) = highest frequency, drill first. Answers are the *shape* of a mid-level response — one confident paragraph with a why and a tradeoff — not essays to memorize. Personalize each with your project experience: "in my booking app, I…" beats any textbook answer.
 
 **Drill protocol (20 min, 4×/week):** > "Quiz me from these categories: [pick 2]. Ask one at a time, wait for my spoken-style answer, grade at a mid-level bar, push back with 'why' on anything shallow." Track misses; re-drill misses first next session.
 

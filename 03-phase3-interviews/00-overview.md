@@ -16,7 +16,7 @@ Applications went out end of week 6/7. From week 8, real interviews and prep int
 | [06-behavioral-story-bank.md](06-behavioral-story-bank.md) | Behavioral | Write week 8, rehearse weekly |
 | [07-resume-and-applications.md](07-resume-and-applications.md) | Getting the interview at all | Week 6–7, then iterate |
 
-**Plus the depth layer:** [../04-question-vault/](../04-question-vault/) — ~490 Q&A behind the core bank, 270 rapid-fire flashcards, code-output gotchas, spot-the-bug snippets, and 3 full mock screener scripts. The bank above is what you'll be *asked*; the vault is the follow-up chain that comes after "why?", plus the trivia openers. **Order matters: fluency on the core 60 first**, then breadth. Start the 10-minute daily rapid-fire from week 6 and run one [mock screener script](../04-question-vault/14-mock-screener-scripts.md) per week from week 7.
+**Plus the depth layer:** [../04-question-vault/](../04-question-vault/) — ~490 Q&A behind the core bank, 270 rapid-fire flashcards, code-output gotchas, spot-the-bug snippets, and 3 full mock screener scripts. The bank above is what you'll be *asked*; the vault is the follow-up chain that comes after "why?", plus the trivia openers. **Order matters: fluency on the core 56 first**, then breadth. Start the 10-minute daily rapid-fire from week 6 and run one [mock screener script](../04-question-vault/14-mock-screener-scripts.md) per week from week 7.
 
 ## Weekly shape (weeks 8–10)
 
@@ -36,7 +36,7 @@ Plus 10 minutes of [rapid-fire trivia](../04-question-vault/11-rapid-fire-trivia
 
 1. **The Bookable deep-dive story** — you control this material; most interviews start with "tell me about a project." Highest ROI per hour.
 2. **Live-coding reps** — most likely single point of failure.
-3. **Question bank ⭐-marked items** — the dozen highest-frequency questions.
+3. **Question bank ⭐-marked items** — the 18 highest-frequency questions.
 4. **SQL maintenance** — one top-N-per-group per week minimum.
 5. Everything else.
 

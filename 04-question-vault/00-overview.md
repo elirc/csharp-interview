@@ -75,9 +75,9 @@ Daily 10-minute Mode 1 warm-up regardless of the day. It's the cheapest habit he
 
 ## Honest calibration
 
-You will not know all 600 of these, and no mid-level hire does. The bar isn't coverage — it's this:
+You will not know all ~800 of these, and no mid-level hire does. The bar isn't coverage — it's this:
 
-- **Fluent** on everything ⭐-marked (roughly 90 items across the folder). Non-negotiable.
+- **Fluent** on everything ⭐-marked (118 items across the ten topic files `01`–`10`). Non-negotiable.
 - **Confident** on the rest of `L`/`A`/`W`/`E`/`S`. That's the job's surface area.
 - **Aware** on `D`/`O` — enough to say something true and name the tradeoff, not enough to be an architect. That's honest and it's expected.
 - **"I don't know, here's how I'd find out"** on anything else, said without flinching. This is a *passing* answer at mid-level and candidates forget that constantly. Bluffing is the only failing answer.

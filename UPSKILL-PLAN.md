@@ -12,8 +12,6 @@
 
 ---
 
----
-
 ## What "mid-level" actually means to an interviewer
 
 Interviewers don't test juniors vs. mids on syntax. They test on these five signals — everything in this plan feeds one of them:
@@ -107,7 +105,7 @@ Start applying at **week 6–7**. Interviews are the best study guide; don't wai
 - The evaluated skill is narration: "First I'll check how existing endpoints handle validation so I'm consistent…" — say the plan before typing.
 
 **3. Technical Q&A / screener call**
-Build a question bank and drill it conversationally: `claude "rapid-fire interview me on ASP.NET Core, EF Core, SQL, HTTP, and DI. Push back on shallow answers with 'why?'"`.
+The bank is already built — [03-phase3-interviews/01-question-bank.md](03-phase3-interviews/01-question-bank.md) (56 core questions), with [04-question-vault/](04-question-vault/) as the follow-up layer. Drill it conversationally: `claude "rapid-fire interview me on ASP.NET Core, EF Core, SQL, HTTP, and DI. Push back on shallow answers with 'why?'"`.
 Must-have topics: DI lifetimes · async/await internals (roughly) · middleware pipeline · EF change tracking + N+1 · indexes and when they hurt · JWT vs session auth · REST design · transactions · unit vs integration tests · "how would you find a slow endpoint in production?"
 
 **4. System design lite** (mid-level version: "design a URL shortener / booking API," expecting sane schema + API + one scaling idea, not distributed-systems theater)
